@@ -1,0 +1,219 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+__COMMON_H__	common.h	2;"	d
+DATA_FRAME	common.h	8;"	d
+CTRL_FRAME	common.h	9;"	d
+FIRST_FRAME	common.h	10;"	d
+RETRANS_FRAME	common.h	11;"	d
+OP_TX	common.h	12;"	d
+OP_RX	common.h	13;"	d
+OP_CTRL	common.h	14;"	d
+TX_MACHINE_TX	common.h	15;"	d
+TX_MACHINE_RX	common.h	16;"	d
+RX_MACHINE_TX	common.h	17;"	d
+RX_MACHINE_RX	common.h	18;"	d
+CHANNEL_RX	common.h	19;"	d
+CHANNEL_TX	common.h	20;"	d
+MAX_MSG_SIZE	common.h	21;"	d
+MAX_FRAME	common.h	22;"	d
+MAX_EVENT	common.h	23;"	d
+ACK_INTERVAL	common.h	24;"	d
+msgSt	common.h	/^struct msgSt {$/;"	s
+msgType	common.h	/^   long int msgType;$/;"	m	struct:msgSt
+msg	common.h	/^   char msg[4096];$/;"	m	struct:msgSt
+BUFSIZE	rxmachine.c	15;"	d	file:
+rx_machine	rxmachine.c	/^linkParam_t rx_machine;$/;"	v
+rxMachine	rxmachine.c	/^int rxMachine(void) {$/;"	f
+catch_interrupt	rxmachine.c	/^catch_interrupt(int signal) $/;"	f	file:
+main	rxmachine.c	/^int main() {$/;"	f
+socket_create	sock.c	/^socket_create (const char *filename)$/;"	f
+__PHY_H__	phy.h	2;"	d
+__BUFFER_H__	buffer.h	2;"	d
+phyReTx	phy.c	/^phyReTx (linkParam_t * linfo, unsigned char *buf, int len)$/;"	f
+phyTx	phy.c	/^phyTx (linkParam_t * linfo)$/;"	f
+phyRx	phy.c	/^phyRx (linkParam_t * linfo)$/;"	f
+SendToChannel	phy.c	/^SendToChannel (unsigned char *buf, int len, int sockId)$/;"	f
+CHANNEL_ACTION_DROP	channel.c	11;"	d	file:
+CHANNEL_ACTION_NONE	channel.c	12;"	d	file:
+channel_s	channel.c	/^typedef struct channel_s$/;"	s	file:
+rxfd	channel.c	/^  int rxfd;$/;"	m	struct:channel_s	file:
+txfd	channel.c	/^  int txfd;$/;"	m	struct:channel_s	file:
+channel_t	channel.c	/^} channel_t;$/;"	t	typeref:struct:channel_s	file:
+channel_l	channel.c	/^static channel_t channel_l;$/;"	v	file:
+channel_init	channel.c	/^channel_init (channel_t * channel)$/;"	f
+channel_dinit	channel.c	/^channel_dinit (channel_t * channel)$/;"	f
+forwardto	channel.c	/^forwardto (channel_t * channel, const char *dest_addr, char *msg, int msg_len)$/;"	f
+find_dest	channel.c	/^find_dest (channel_t * channel, const char *src, char *dest)$/;"	f
+catch_interrupt	channel.c	/^catch_interrupt(int signal) $/;"	f	file:
+applyChannelFilter	channel.c	/^applyChannelFilter(channel_t *channel, char *msg,int len,int *action){$/;"	f
+main	channel.c	/^main (int argc, char *argv[])$/;"	f
+__LINK_H__	link.h	2;"	d
+START_FRAME	link.h	9;"	d
+END_FRAME	link.h	10;"	d
+INT_FRAME	link.h	11;"	d
+TYPE_NACK	link.h	13;"	d
+TYPE_ACK	link.h	14;"	d
+frameSt	link.h	/^struct frameSt$/;"	s
+node	link.h	/^  struct nodeSt node;$/;"	m	struct:frameSt	typeref:struct:frameSt::nodeSt
+data	link.h	/^  unsigned char data[100];$/;"	m	struct:frameSt
+seqNum	link.h	/^  unsigned int seqNum;$/;"	m	struct:frameSt
+len	link.h	/^  int len;$/;"	m	struct:frameSt
+linkBuf_s	link.h	/^typedef struct linkBuf_s$/;"	s
+rxBufState	link.h	/^  unsigned char rxBufState;$/;"	m	struct:linkBuf_s
+rxSuccessCount	link.h	/^  unsigned int rxSuccessCount;$/;"	m	struct:linkBuf_s
+rxSuccessSeq	link.h	/^  unsigned int rxSuccessSeq;$/;"	m	struct:linkBuf_s
+txIdleList	link.h	/^  struct listSt *txIdleList;$/;"	m	struct:linkBuf_s	typeref:struct:linkBuf_s::listSt
+txActiveList	link.h	/^  struct listSt *txActiveList;$/;"	m	struct:linkBuf_s	typeref:struct:linkBuf_s::listSt
+txWaitList	link.h	/^  struct listSt *txWaitList;$/;"	m	struct:linkBuf_s	typeref:struct:linkBuf_s::listSt
+txFrameFile	link.h	/^  struct frameSt *txFrameFile[MAX_FRAME];$/;"	m	struct:linkBuf_s	typeref:struct:linkBuf_s::frameSt
+rxIdleList	link.h	/^  struct listSt *rxIdleList;$/;"	m	struct:linkBuf_s	typeref:struct:linkBuf_s::listSt
+rxActiveList	link.h	/^  struct listSt *rxActiveList;$/;"	m	struct:linkBuf_s	typeref:struct:linkBuf_s::listSt
+rxWaitList	link.h	/^  struct listSt *rxWaitList;$/;"	m	struct:linkBuf_s	typeref:struct:linkBuf_s::listSt
+rxFrameFile	link.h	/^  struct frameSt *rxFrameFile[MAX_FRAME];$/;"	m	struct:linkBuf_s	typeref:struct:linkBuf_s::frameSt
+linkBuf_t	link.h	/^} linkBuf_t;$/;"	t	typeref:struct:linkBuf_s
+ctrlEvntSt	link.h	/^typedef struct ctrlEvntSt$/;"	s
+event	link.h	/^  unsigned char event[2];$/;"	m	struct:ctrlEvntSt
+ctrlEvntSt_t	link.h	/^} ctrlEvntSt_t;$/;"	t	typeref:struct:ctrlEvntSt
+linkParam_s	link.h	/^typedef struct linkParam_s$/;"	s
+txSockId	link.h	/^  int txSockId;$/;"	m	struct:linkParam_s
+rxServSockId	link.h	/^  int rxServSockId;$/;"	m	struct:linkParam_s
+idString	link.h	/^  char idString[100];$/;"	m	struct:linkParam_s
+linkTxName	link.h	/^  char linkTxName[25];$/;"	m	struct:linkParam_s
+linkRxName	link.h	/^  char linkRxName[25];$/;"	m	struct:linkParam_s
+seqNum	link.h	/^  int seqNum ;$/;"	m	struct:linkParam_s
+ctrlEv	link.h	/^  ctrlEvntSt_t ctrlEv[MAX_EVENT];$/;"	m	struct:linkParam_s
+evCount	link.h	/^  int evCount;$/;"	m	struct:linkParam_s
+lbuf	link.h	/^  linkBuf_t lbuf;$/;"	m	struct:linkParam_s
+recvSema	link.h	/^  sem_t recvSema;$/;"	m	struct:linkParam_s
+recvDoneSema	link.h	/^  sem_t recvDoneSema;$/;"	m	struct:linkParam_s
+recvBuf	link.h	/^  char *recvBuf;$/;"	m	struct:linkParam_s
+recvBufLen	link.h	/^  int recvBufLen; $/;"	m	struct:linkParam_s
+linkRxThrdId	link.h	/^  pthread_t linkRxThrdId;$/;"	m	struct:linkParam_s
+reassembleTimer	link.h	/^  ltimer_t reassembleTimer;$/;"	m	struct:linkParam_s
+nackTimer	link.h	/^  ltimer_t nackTimer;$/;"	m	struct:linkParam_s
+linkParam_t	link.h	/^} linkParam_t;$/;"	t	typeref:struct:linkParam_s
+NULL_FRAME	link.h	70;"	d
+bufferStatusReport	buffer.c	/^bufferStatusReport (linkBuf_t * lbuf)$/;"	f
+bufferInit	buffer.c	/^bufferInit (linkBuf_t * lbuf)$/;"	f
+bufferDeInit	buffer.c	/^bufferDeInit (linkBuf_t * lbuf)$/;"	f
+viewBuffList	buffer.c	/^viewBuffList (struct listSt *viewList)$/;"	f
+viewRxBuffLists	buffer.c	/^viewRxBuffLists (linkBuf_t * lbuf)$/;"	f
+writeToTxBuf	buffer.c	/^writeToTxBuf (linkBuf_t * lbuf, struct frameSt *txframe)$/;"	f
+processCtrlFrame	buffer.c	/^processCtrlFrame (linkParam_t * linfo, unsigned char *data, int len)$/;"	f
+processDataFrame	buffer.c	/^processDataFrame (linkParam_t * linfo, unsigned char *data, int len)$/;"	f
+processRxFrame	buffer.c	/^processRxFrame (linkParam_t * linfo, unsigned char *data, int len)$/;"	f
+bufferWrite	buffer.c	/^bufferWrite (linkBuf_t *lbuf,unsigned char *data, int len, int seq, int flag, $/;"	f
+bufferRead	buffer.c	/^bufferRead (linkBuf_t * lbuf, unsigned char *buf, int op, int txMsqId)$/;"	f
+bufferWaitScan	buffer.c	/^bufferWaitScan (linkBuf_t *lbuf, int op, int seq)$/;"	f
+bufferActiveScan	buffer.c	/^bufferActiveScan (linkBuf_t *lbuf, int op, int seq, struct frameSt **prevFrame)$/;"	f
+ackProcessing	buffer.c	/^ackProcessing (linkBuf_t *lbuf, int seq)$/;"	f
+bufferState	buffer.c	/^bufferState (linkBuf_t *lbuf, int op)$/;"	f
+handler	timer.c	/^handler (int sig, siginfo_t * si, void *uc)$/;"	f	file:
+ltimerCreate	timer.c	/^ltimerCreate (ltimer_t *tdata, callptr * callback, void *data)$/;"	f
+ltimerStop	timer.c	/^ltimerStop(timer_t tid)$/;"	f
+ltimerStart	timer.c	/^ltimerStart(timer_t tid, int msec)$/;"	f
+FRAME_LEN	link.c	10;"	d	file:
+RSTIMEOUT_MS	link.c	11;"	d	file:
+SEEK_ST	link.c	12;"	d	file:
+SEEK_ED	link.c	13;"	d	file:
+regCtrlEvent	link.c	/^regCtrlEvent (linkParam_t * linfo, int type, int seq)$/;"	f
+sendControl	link.c	/^sendControl (linkParam_t * linfo)$/;"	f
+retransmission	link.c	/^retransmission (linkParam_t * linfo, int seq, int txMsqId)$/;"	f
+rstCbk	link.c	/^rstCbk (void *data)$/;"	f
+recvFromChannel	link.c	/^recvFromChannel (void *targ)$/;"	f
+linkInit	link.c	/^linkInit (linkParam_t * lparam)$/;"	f
+linkDeInit	link.c	/^linkDeInit (linkParam_t * lparam)$/;"	f
+makeLLFrame	link.c	/^makeLLFrame (unsigned char *data, int len, int seq, int flag,$/;"	f
+segmentation	link.c	/^segmentation (linkParam_t * linfo, unsigned char *msg, int len)$/;"	f
+reassemble	link.c	/^reassemble (linkParam_t * linfo)$/;"	f
+updateRecvr	link.c	/^void updateRecvr(linkParam_t * linfo, unsigned char *buf, int len)$/;"	f
+linkRecv	link.c	/^linkRecv (linkParam_t * linfo, unsigned char *buf, int *len)$/;"	f
+linkSend	link.c	/^linkSend (linkParam_t * linfo, unsigned char *buf, int len)$/;"	f
+linkTx	link.c	/^linkTx (linkParam_t * linfo, unsigned char *buf, int len)$/;"	f
+linkRx	link.c	/^linkRx (linkParam_t * linfo, unsigned char *buf, int len)$/;"	f
+BUFSIZE	txmachine.c	15;"	d	file:
+tx_machine	txmachine.c	/^linkParam_t tx_machine;$/;"	v
+txMachine	txmachine.c	/^int txMachine(void) {$/;"	f
+catch_interrupt	txmachine.c	/^catch_interrupt(int signal) $/;"	f	file:
+main	txmachine.c	/^int main() {$/;"	f
+__LIST_H__	list.h	2;"	d
+nodeSt	list.h	/^struct nodeSt {$/;"	s
+nNode	list.h	/^   struct nodeSt *nNode;$/;"	m	struct:nodeSt	typeref:struct:nodeSt::nodeSt
+pNode	list.h	/^   struct nodeSt *pNode;$/;"	m	struct:nodeSt	typeref:struct:nodeSt::nodeSt
+listSt	list.h	/^struct listSt {$/;"	s
+head	list.h	/^   struct nodeSt *head;$/;"	m	struct:listSt	typeref:struct:listSt::nodeSt
+tail	list.h	/^   struct nodeSt *tail;$/;"	m	struct:listSt	typeref:struct:listSt::nodeSt
+nodeNum	list.h	/^   int nodeNum;$/;"	m	struct:listSt
+NULL_NODE	list.h	15;"	d
+MAXMSG	slog.c	38;"	d	file:
+slg	slog.c	/^static SlogFlags slg;$/;"	v	file:
+slog_mutex	slog.c	/^static pthread_mutex_t slog_mutex;$/;"	v	file:
+slog_get_date	slog.c	/^void slog_get_date(SlogDate *sdate)$/;"	f
+slog_version	slog.c	/^const char* slog_version(int min)$/;"	f
+strclr	slog.c	/^char* strclr(const char* clr, char* str, ...) $/;"	f
+slog_to_file	slog.c	/^void slog_to_file(char *out, const char *fname, SlogDate *sdate)$/;"	f
+parse_config	slog.c	/^int parse_config(const char *cfg_name)$/;"	f
+slog_get	slog.c	/^char* slog_get(SlogDate *pDate, char *msg, ...) $/;"	f
+slog	slog.c	/^void slog(int level, int flag, const char *msg, ...)$/;"	f
+slog_init	slog.c	/^void slog_init(const char* fname, const char* conf, int lvl, int flvl, int t_safe)$/;"	f
+__APP_H__	app.h	2;"	d
+listNodeInsert	list.c	/^listNodeInsert (struct listSt *list, struct nodeSt *rNode,$/;"	f
+listNodeGet	list.c	/^listNodeGet (struct listSt *list)$/;"	f
+listNextNodeView	list.c	/^listNextNodeView (struct listSt *list, struct nodeSt *curr)$/;"	f
+listNodeDelete	list.c	/^listNodeDelete (struct listSt *list, struct nodeSt *node)$/;"	f
+listInit	list.c	/^listInit (struct listSt *list)$/;"	f
+__TIMER_H__	timer.h	2;"	d
+CLOCKID	timer.h	12;"	d
+SIG	timer.h	13;"	d
+errExit	timer.h	15;"	d
+callptr	timer.h	/^typedef void (callptr) ();$/;"	t
+ltimer_s	timer.h	/^typedef struct ltimer_s$/;"	s
+timerid	timer.h	/^  timer_t timerid;$/;"	m	struct:ltimer_s
+callback	timer.h	/^  callptr *callback;$/;"	m	struct:ltimer_s
+data	timer.h	/^  void *data;$/;"	m	struct:ltimer_s
+ltimer_t	timer.h	/^} ltimer_t;$/;"	t	typeref:struct:ltimer_s
+__SLOG_H__	slog.h	27;"	d
+SLOGVERSION_MAX	slog.h	38;"	d
+SLOGVERSION_MIN	slog.h	39;"	d
+SLOGBUILD_NUM	slog.h	40;"	d
+SLOG_LIVE	slog.h	44;"	d
+SLOG_INFO	slog.h	45;"	d
+SLOG_WARN	slog.h	46;"	d
+SLOG_DEBUG	slog.h	47;"	d
+SLOG_ERROR	slog.h	48;"	d
+SLOG_FATAL	slog.h	49;"	d
+SLOG_PANIC	slog.h	50;"	d
+SLOG_NONE	slog.h	51;"	d
+CLR_NORMAL	slog.h	55;"	d
+CLR_RED	slog.h	56;"	d
+CLR_GREEN	slog.h	57;"	d
+CLR_YELLOW	slog.h	58;"	d
+CLR_BLUE	slog.h	59;"	d
+CLR_NAGENTA	slog.h	60;"	d
+CLR_CYAN	slog.h	61;"	d
+CLR_WHITE	slog.h	62;"	d
+CLR_RESET	slog.h	63;"	d
+fname	slog.h	/^    const char* fname;$/;"	m	struct:__anon1
+file_level	slog.h	/^    short file_level;$/;"	m	struct:__anon1
+level	slog.h	/^    short level;$/;"	m	struct:__anon1
+to_file	slog.h	/^    short to_file;$/;"	m	struct:__anon1
+pretty	slog.h	/^    short pretty;$/;"	m	struct:__anon1
+filestamp	slog.h	/^    short filestamp;$/;"	m	struct:__anon1
+td_safe	slog.h	/^    short td_safe;$/;"	m	struct:__anon1
+SlogFlags	slog.h	/^} SlogFlags;$/;"	t	typeref:struct:__anon1
+year	slog.h	/^    int year; $/;"	m	struct:__anon2
+mon	slog.h	/^    int mon; $/;"	m	struct:__anon2
+day	slog.h	/^    int day;$/;"	m	struct:__anon2
+hour	slog.h	/^    int hour;$/;"	m	struct:__anon2
+min	slog.h	/^    int min;$/;"	m	struct:__anon2
+sec	slog.h	/^    int sec;$/;"	m	struct:__anon2
+usec	slog.h	/^    int usec;$/;"	m	struct:__anon2
+SlogDate	slog.h	/^} SlogDate;$/;"	t	typeref:struct:__anon2
+RFILE_N	app_img.c	8;"	d	file:
+WFILE_N	app_img.c	9;"	d	file:
+appRx	app_img.c	/^appRx(linkParam_t *rx_machine)$/;"	f
+appTx	app_img.c	/^appTx (linkParam_t * tx_machine, int len)$/;"	f

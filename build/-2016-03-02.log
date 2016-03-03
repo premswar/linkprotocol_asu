@@ -1,0 +1,3822 @@
+2016.03.02-17:24:51.24 - [DEBUG] ltimer stop
+
+2016.03.02-17:24:51.24 - [INFO] bufferWrite
+
+2016.03.02-17:24:51.24 - [DEBUG] OP_TX : 
+2016.03.02-17:24:51.24 - [INFO] listNodeGet
+
+2016.03.02-17:24:51.24 - [DEBUG] buffer write len:3, plen:5
+
+2016.03.02-17:24:51.24 - [INFO] listNodeInsert
+
+2016.03.02-17:24:51.24 - [DEBUG] phyTx
+
+2016.03.02-17:24:51.24 - [INFO] bufferState : 
+2016.03.02-17:24:51.24 - [DEBUG] TX : nodeNum = 1, state = 1
+
+2016.03.02-17:24:51.24 - [INFO] bufferRead :op  0
+2016.03.02-17:24:51.24 - [DEBUG] OP_TX : 
+2016.03.02-17:24:51.24 - [INFO] listNodeGet
+
+2016.03.02-17:24:51.24 - [DEBUG] 80 01 
+
+2016.03.02-17:24:51.24 - [INFO] listNodeInsert
+
+2016.03.02-17:24:51.24 - [INFO] txI=2000 
+2016.03.02-17:24:51.24 - [INFO] txA=0 
+2016.03.02-17:24:51.24 - [INFO] txW=0 
+2016.03.02-17:24:51.24 - [INFO] rxI=2000 
+2016.03.02-17:24:51.24 - [INFO] rxA=0 
+2016.03.02-17:24:51.24 - [INFO] rxW=0 
+2016.03.02-17:24:51.24 - [DEBUG] phyTx : type = 80, seq = 1
+
+2016.03.02-17:24:51.24 - [INFO] txI=2000 
+2016.03.02-17:24:51.24 - [INFO] txA=0 
+2016.03.02-17:24:51.24 - [INFO] txW=0 
+2016.03.02-17:24:51.24 - [INFO] rxI=2000 
+2016.03.02-17:24:51.24 - [INFO] rxA=0 
+2016.03.02-17:24:51.24 - [INFO] rxW=0 
+2016.03.02-17:24:51.24 - [INFO] SendToChannel
+
+2016.03.02-17:24:51.24 - [DEBUG] Trasmitted 5 bytes [5]
+
+2016.03.02-17:24:51.24 - [INFO] bufferState : 
+2016.03.02-17:24:51.24 - [DEBUG] TX : nodeNum = 0, state = 0
+
+2016.03.02-17:24:51.24 - [DEBUG] phyTx Sucessfully transmitted buff
+
+2016.03.02-17:24:51.24 - [INFO] txI=2000 
+2016.03.02-17:24:51.24 - [INFO] txA=0 
+2016.03.02-17:24:51.24 - [INFO] txW=0 
+2016.03.02-17:24:51.24 - [INFO] rxI=2000 
+2016.03.02-17:24:51.24 - [INFO] rxA=0 
+2016.03.02-17:24:51.24 - [INFO] rxW=0 
+2016.03.02-17:24:51.24 - [INFO] bufferState : 
+2016.03.02-17:25:43.38 - [DEBUG] ltimer stop
+
+2016.03.02-17:25:43.38 - [INFO] bufferWrite
+
+2016.03.02-17:25:43.38 - [DEBUG] OP_TX : 
+2016.03.02-17:25:43.38 - [INFO] listNodeGet
+
+2016.03.02-17:25:43.38 - [DEBUG] buffer write len:3, plen:5
+
+2016.03.02-17:25:43.38 - [INFO] listNodeInsert
+
+2016.03.02-17:25:43.38 - [DEBUG] phyTx
+
+2016.03.02-17:25:43.38 - [INFO] bufferState : 
+2016.03.02-17:25:43.38 - [DEBUG] TX : nodeNum = 1, state = 1
+
+2016.03.02-17:25:43.38 - [INFO] bufferRead :op  0
+2016.03.02-17:25:43.38 - [DEBUG] OP_TX : 
+2016.03.02-17:25:43.38 - [INFO] listNodeGet
+
+2016.03.02-17:25:43.38 - [DEBUG] 80 01 
+
+2016.03.02-17:25:43.38 - [INFO] listNodeInsert
+
+2016.03.02-17:25:43.38 - [INFO] txI=2000 
+2016.03.02-17:25:43.38 - [INFO] txA=0 
+2016.03.02-17:25:43.38 - [INFO] txW=0 
+2016.03.02-17:25:43.38 - [INFO] rxI=2000 
+2016.03.02-17:25:43.38 - [INFO] rxA=0 
+2016.03.02-17:25:43.38 - [INFO] rxW=0 
+2016.03.02-17:25:43.38 - [DEBUG] phyTx : type = 80, seq = 1
+
+2016.03.02-17:25:43.38 - [INFO] txI=2000 
+2016.03.02-17:25:43.38 - [INFO] txA=0 
+2016.03.02-17:25:43.38 - [INFO] txW=0 
+2016.03.02-17:25:43.38 - [INFO] rxI=2000 
+2016.03.02-17:25:43.38 - [INFO] rxA=0 
+2016.03.02-17:25:43.38 - [INFO] rxW=0 
+2016.03.02-17:25:43.38 - [INFO] SendToChannel
+
+2016.03.02-17:25:43.38 - [DEBUG] Trasmitted 5 bytes [5]
+
+2016.03.02-17:25:43.38 - [INFO] bufferState : 
+2016.03.02-17:25:43.38 - [DEBUG] TX : nodeNum = 0, state = 0
+
+2016.03.02-17:25:43.38 - [DEBUG] phyTx Sucessfully transmitted buff
+
+2016.03.02-17:25:43.38 - [INFO] txI=2000 
+2016.03.02-17:25:43.38 - [INFO] txA=0 
+2016.03.02-17:25:43.38 - [INFO] txW=0 
+2016.03.02-17:25:43.38 - [INFO] rxI=2000 
+2016.03.02-17:25:43.38 - [INFO] rxA=0 
+2016.03.02-17:25:43.38 - [INFO] rxW=0 
+2016.03.02-17:25:43.38 - [INFO] bufferState : 
+2016.03.02-17:25:43.38 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:43.38 - [INFO] txI=2000 
+2016.03.02-17:25:43.38 - [INFO] txA=0 
+2016.03.02-17:25:43.38 - [INFO] txW=0 
+2016.03.02-17:25:43.38 - [INFO] rxI=2000 
+2016.03.02-17:25:43.38 - [INFO] rxA=0 
+2016.03.02-17:25:43.38 - [INFO] rxW=0 
+2016.03.02-17:25:44.27 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.27 - [DEBUG] [phyRx]RCVD packet Flags:02 Seq no:22
+ 
+2016.03.02-17:25:44.27 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.27 - [DEBUG] OP_RX: data packet. Flags:02 Seq no:22
+ 
+2016.03.02-17:25:44.27 - [DEBUG] curSeq = 22
+ flag:S
+
+2016.03.02-17:25:44.27 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.27 - [DEBUG] reassemble  seekstate:0
+
+2016.03.02-17:25:44.27 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.27 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.27 - [INFO] packet seq in list:22
+
+2016.03.02-17:25:44.27 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.27 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.27 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.27 - [INFO] bufferState : 
+2016.03.02-17:25:44.27 - [DEBUG] [bufferState] rxbufstate :2 seq1:22 seq:22 buffstate:1
+
+2016.03.02-17:25:44.27 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=22, seq2=22, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.27 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.27 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.27 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.27 - [DEBUG] update rxSuccessSeq into 22
+
+2016.03.02-17:25:44.27 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.27 - [INFO] txI=2000 
+2016.03.02-17:25:44.27 - [INFO] txA=0 
+2016.03.02-17:25:44.27 - [INFO] txW=0 
+2016.03.02-17:25:44.27 - [INFO] rxI=2000 
+2016.03.02-17:25:44.27 - [INFO] rxA=0 
+2016.03.02-17:25:44.27 - [INFO] rxW=0 
+2016.03.02-17:25:44.27 - [INFO] idx = 0, len = 98
+
+2016.03.02-17:25:44.27 - [DEBUG] S
+
+2016.03.02-17:25:44.27 - [DEBUG] ltimer start
+
+2016.03.02-17:25:44.27 - [INFO] bufferState : 
+2016.03.02-17:25:44.27 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.27 - [INFO] bufferState : 
+2016.03.02-17:25:44.27 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.27 - [INFO] txI=2000 
+2016.03.02-17:25:44.27 - [INFO] txA=0 
+2016.03.02-17:25:44.27 - [INFO] txW=0 
+2016.03.02-17:25:44.27 - [INFO] rxI=2000 
+2016.03.02-17:25:44.27 - [INFO] rxA=0 
+2016.03.02-17:25:44.27 - [INFO] rxW=0 
+2016.03.02-17:25:44.27 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.27 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:23
+ 
+2016.03.02-17:25:44.28 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.28 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:23
+ 
+2016.03.02-17:25:44.28 - [DEBUG] curSeq = 23
+ flag:I
+
+2016.03.02-17:25:44.28 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.28 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.28 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] packet seq in list:23
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState] rxbufstate :2 seq1:23 seq:23 buffstate:1
+
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=23, seq2=23, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.28 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.28 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.28 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.28 - [DEBUG] update rxSuccessSeq into 23
+
+2016.03.02-17:25:44.28 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.28 - [INFO] txI=2000 
+2016.03.02-17:25:44.28 - [INFO] txA=0 
+2016.03.02-17:25:44.28 - [INFO] txW=0 
+2016.03.02-17:25:44.28 - [INFO] rxI=2000 
+2016.03.02-17:25:44.28 - [INFO] rxA=0 
+2016.03.02-17:25:44.28 - [INFO] rxW=0 
+2016.03.02-17:25:44.28 - [INFO] idx = 95, len = 98
+
+2016.03.02-17:25:44.28 - [DEBUG] I
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.28 - [INFO] txI=2000 
+2016.03.02-17:25:44.28 - [INFO] txA=0 
+2016.03.02-17:25:44.28 - [INFO] txW=0 
+2016.03.02-17:25:44.28 - [INFO] rxI=2000 
+2016.03.02-17:25:44.28 - [INFO] rxA=0 
+2016.03.02-17:25:44.28 - [INFO] rxW=0 
+2016.03.02-17:25:44.28 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.28 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:24
+ 
+2016.03.02-17:25:44.28 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.28 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:24
+ 
+2016.03.02-17:25:44.28 - [DEBUG] curSeq = 24
+ flag:I
+
+2016.03.02-17:25:44.28 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.28 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.28 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] packet seq in list:24
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState] rxbufstate :2 seq1:24 seq:24 buffstate:1
+
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=24, seq2=24, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.28 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.28 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.28 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.28 - [DEBUG] update rxSuccessSeq into 24
+
+2016.03.02-17:25:44.28 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.28 - [INFO] txI=2000 
+2016.03.02-17:25:44.28 - [INFO] txA=0 
+2016.03.02-17:25:44.28 - [INFO] txW=0 
+2016.03.02-17:25:44.28 - [INFO] rxI=2000 
+2016.03.02-17:25:44.28 - [INFO] rxA=0 
+2016.03.02-17:25:44.28 - [INFO] rxW=0 
+2016.03.02-17:25:44.28 - [INFO] idx = 190, len = 98
+
+2016.03.02-17:25:44.28 - [DEBUG] I
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.28 - [INFO] txI=2000 
+2016.03.02-17:25:44.28 - [INFO] txA=0 
+2016.03.02-17:25:44.28 - [INFO] txW=0 
+2016.03.02-17:25:44.28 - [INFO] rxI=2000 
+2016.03.02-17:25:44.28 - [INFO] rxA=0 
+2016.03.02-17:25:44.28 - [INFO] rxW=0 
+2016.03.02-17:25:44.28 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.28 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:25
+ 
+2016.03.02-17:25:44.28 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.28 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:25
+ 
+2016.03.02-17:25:44.28 - [DEBUG] curSeq = 25
+ flag:I
+
+2016.03.02-17:25:44.28 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.28 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.28 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] packet seq in list:25
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState] rxbufstate :2 seq1:25 seq:25 buffstate:1
+
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=25, seq2=25, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.28 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.28 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.28 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.28 - [DEBUG] update rxSuccessSeq into 25
+
+2016.03.02-17:25:44.28 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.28 - [INFO] txI=2000 
+2016.03.02-17:25:44.28 - [INFO] txA=0 
+2016.03.02-17:25:44.28 - [INFO] txW=0 
+2016.03.02-17:25:44.28 - [INFO] rxI=2000 
+2016.03.02-17:25:44.28 - [INFO] rxA=0 
+2016.03.02-17:25:44.28 - [INFO] rxW=0 
+2016.03.02-17:25:44.28 - [INFO] idx = 285, len = 98
+
+2016.03.02-17:25:44.28 - [DEBUG] I
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.28 - [INFO] txI=2000 
+2016.03.02-17:25:44.28 - [INFO] txA=0 
+2016.03.02-17:25:44.28 - [INFO] txW=0 
+2016.03.02-17:25:44.28 - [INFO] rxI=2000 
+2016.03.02-17:25:44.28 - [INFO] rxA=0 
+2016.03.02-17:25:44.28 - [INFO] rxW=0 
+2016.03.02-17:25:44.28 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.28 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:26
+ 
+2016.03.02-17:25:44.28 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.28 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:26
+ 
+2016.03.02-17:25:44.28 - [DEBUG] curSeq = 26
+ flag:I
+
+2016.03.02-17:25:44.28 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.28 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.28 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] packet seq in list:26
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState] rxbufstate :2 seq1:26 seq:26 buffstate:1
+
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=26, seq2=26, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.28 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.28 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.28 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.28 - [DEBUG] update rxSuccessSeq into 26
+
+2016.03.02-17:25:44.28 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.28 - [INFO] txI=2000 
+2016.03.02-17:25:44.28 - [INFO] txA=0 
+2016.03.02-17:25:44.28 - [INFO] txW=0 
+2016.03.02-17:25:44.28 - [INFO] rxI=2000 
+2016.03.02-17:25:44.28 - [INFO] rxA=0 
+2016.03.02-17:25:44.28 - [INFO] rxW=0 
+2016.03.02-17:25:44.28 - [INFO] idx = 380, len = 98
+
+2016.03.02-17:25:44.28 - [DEBUG] I
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.28 - [INFO] txI=2000 
+2016.03.02-17:25:44.28 - [INFO] txA=0 
+2016.03.02-17:25:44.28 - [INFO] txW=0 
+2016.03.02-17:25:44.28 - [INFO] rxI=2000 
+2016.03.02-17:25:44.28 - [INFO] rxA=0 
+2016.03.02-17:25:44.28 - [INFO] rxW=0 
+2016.03.02-17:25:44.28 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.28 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:28
+ 
+2016.03.02-17:25:44.28 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.28 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:28
+ 
+2016.03.02-17:25:44.28 - [DEBUG] curSeq = 28
+ flag:I
+
+2016.03.02-17:25:44.28 - [DEBUG] ------> frame missing !!, rxSuccess = 26, expSeq = 27, curSeq = 28
+
+2016.03.02-17:25:44.28 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.28 - [INFO] bufferWrite
+
+2016.03.02-17:25:44.28 - [DEBUG] OP_TX : 
+2016.03.02-17:25:44.28 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.28 - [DEBUG] buffer write len:3, plen:5
+
+2016.03.02-17:25:44.28 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.28 - [DEBUG] phyTx
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] TX : nodeNum = 1, state = 1
+
+2016.03.02-17:25:44.28 - [INFO] bufferRead :op  0
+2016.03.02-17:25:44.28 - [DEBUG] OP_TX : 
+2016.03.02-17:25:44.28 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.28 - [DEBUG] 80 01 
+
+2016.03.02-17:25:44.28 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.28 - [INFO] txI=2000 
+2016.03.02-17:25:44.28 - [INFO] txA=0 
+2016.03.02-17:25:44.28 - [INFO] txW=0 
+2016.03.02-17:25:44.28 - [INFO] rxI=1999 
+2016.03.02-17:25:44.28 - [INFO] rxA=1 
+2016.03.02-17:25:44.28 - [INFO] rxW=0 
+2016.03.02-17:25:44.28 - [DEBUG] phyTx : type = 80, seq = 1
+
+2016.03.02-17:25:44.28 - [INFO] txI=2000 
+2016.03.02-17:25:44.28 - [INFO] txA=0 
+2016.03.02-17:25:44.28 - [INFO] txW=0 
+2016.03.02-17:25:44.28 - [INFO] rxI=1999 
+2016.03.02-17:25:44.28 - [INFO] rxA=1 
+2016.03.02-17:25:44.28 - [INFO] rxW=0 
+2016.03.02-17:25:44.28 - [INFO] SendToChannel
+
+2016.03.02-17:25:44.28 - [DEBUG] Trasmitted 5 bytes [5]
+
+2016.03.02-17:25:44.28 - [INFO] bufferState : 
+2016.03.02-17:25:44.28 - [DEBUG] TX : nodeNum = 0, state = 0
+
+2016.03.02-17:25:44.28 - [DEBUG] phyTx Sucessfully transmitted buff
+
+2016.03.02-17:25:44.28 - [INFO] txI=2000 
+2016.03.02-17:25:44.28 - [INFO] txA=0 
+2016.03.02-17:25:44.28 - [INFO] txW=0 
+2016.03.02-17:25:44.28 - [INFO] rxI=1999 
+2016.03.02-17:25:44.28 - [INFO] rxA=1 
+2016.03.02-17:25:44.28 - [INFO] rxW=0 
+2016.03.02-17:25:44.28 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.28 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] packet seq in list:28
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.28 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.28 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1999 
+2016.03.02-17:25:44.29 - [INFO] rxA=1 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:29
+ 
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:29
+ 
+2016.03.02-17:25:44.29 - [DEBUG] curSeq = 29
+ flag:I
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:28
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:29
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1998 
+2016.03.02-17:25:44.29 - [INFO] rxA=2 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:30
+ 
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:30
+ 
+2016.03.02-17:25:44.29 - [DEBUG] curSeq = 30
+ flag:I
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:28
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:29
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:30
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1997 
+2016.03.02-17:25:44.29 - [INFO] rxA=3 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:31
+ 
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:31
+ 
+2016.03.02-17:25:44.29 - [DEBUG] curSeq = 31
+ flag:I
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:28
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:29
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:30
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:31
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1996 
+2016.03.02-17:25:44.29 - [INFO] rxA=4 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:32
+ 
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:32
+ 
+2016.03.02-17:25:44.29 - [DEBUG] curSeq = 32
+ flag:I
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:28
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:29
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:30
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:31
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:32
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1995 
+2016.03.02-17:25:44.29 - [INFO] rxA=5 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:33
+ 
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:33
+ 
+2016.03.02-17:25:44.29 - [DEBUG] curSeq = 33
+ flag:I
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:28
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:29
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:30
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:31
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:32
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:33
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1994 
+2016.03.02-17:25:44.29 - [INFO] rxA=6 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]RCVD packet Flags:40 Seq no:27
+ 
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] OP_RX: data packet. Flags:40 Seq no:27
+ 
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:27
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:28
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:29
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:30
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:31
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:32
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:33
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:27 buffstate:1
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 7, seq1=27, seq2=27, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.29 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.29 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] update rxSuccessSeq into 27
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1994 
+2016.03.02-17:25:44.29 - [INFO] rxA=6 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [INFO] idx = 475, len = 98
+
+2016.03.02-17:25:44.29 - [DEBUG] I
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:28 seq:28 buffstate:1
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=28, seq2=28, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.29 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.29 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] update rxSuccessSeq into 28
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1995 
+2016.03.02-17:25:44.29 - [INFO] rxA=5 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [INFO] idx = 570, len = 98
+
+2016.03.02-17:25:44.29 - [DEBUG] I
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:29 seq:29 buffstate:1
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=29, seq2=29, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.29 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.29 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] update rxSuccessSeq into 29
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1996 
+2016.03.02-17:25:44.29 - [INFO] rxA=4 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [INFO] idx = 665, len = 98
+
+2016.03.02-17:25:44.29 - [DEBUG] I
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:30 seq:30 buffstate:1
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=30, seq2=30, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.29 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.29 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] update rxSuccessSeq into 30
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1997 
+2016.03.02-17:25:44.29 - [INFO] rxA=3 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [INFO] idx = 760, len = 98
+
+2016.03.02-17:25:44.29 - [DEBUG] I
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:31 seq:31 buffstate:1
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=31, seq2=31, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.29 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.29 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] update rxSuccessSeq into 31
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1998 
+2016.03.02-17:25:44.29 - [INFO] rxA=2 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [INFO] idx = 855, len = 98
+
+2016.03.02-17:25:44.29 - [DEBUG] I
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:32 seq:32 buffstate:1
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=32, seq2=32, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.29 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.29 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] update rxSuccessSeq into 32
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1999 
+2016.03.02-17:25:44.29 - [INFO] rxA=1 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [INFO] idx = 950, len = 98
+
+2016.03.02-17:25:44.29 - [DEBUG] I
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:33 seq:33 buffstate:1
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=33, seq2=33, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.29 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.29 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] update rxSuccessSeq into 33
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=2000 
+2016.03.02-17:25:44.29 - [INFO] rxA=0 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [INFO] idx = 1045, len = 98
+
+2016.03.02-17:25:44.29 - [DEBUG] I
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=2000 
+2016.03.02-17:25:44.29 - [INFO] rxA=0 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.29 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:35
+ 
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:35
+ 
+2016.03.02-17:25:44.29 - [DEBUG] curSeq = 35
+ flag:I
+
+2016.03.02-17:25:44.29 - [DEBUG] ------> frame missing !!, rxSuccess = 33, expSeq = 34, curSeq = 35
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [INFO] bufferWrite
+
+2016.03.02-17:25:44.29 - [DEBUG] OP_TX : 
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] buffer write len:3, plen:5
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [DEBUG] phyTx
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] TX : nodeNum = 1, state = 1
+
+2016.03.02-17:25:44.29 - [INFO] bufferRead :op  0
+2016.03.02-17:25:44.29 - [DEBUG] OP_TX : 
+2016.03.02-17:25:44.29 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.29 - [DEBUG] 80 01 
+
+2016.03.02-17:25:44.29 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1999 
+2016.03.02-17:25:44.29 - [INFO] rxA=1 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [DEBUG] phyTx : type = 80, seq = 1
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1999 
+2016.03.02-17:25:44.29 - [INFO] rxA=1 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [INFO] SendToChannel
+
+2016.03.02-17:25:44.29 - [DEBUG] Trasmitted 5 bytes [5]
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] TX : nodeNum = 0, state = 0
+
+2016.03.02-17:25:44.29 - [DEBUG] phyTx Sucessfully transmitted buff
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1999 
+2016.03.02-17:25:44.29 - [INFO] rxA=1 
+2016.03.02-17:25:44.29 - [INFO] rxW=0 
+2016.03.02-17:25:44.29 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] packet seq in list:35
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.29 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] bufferState : 
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.29 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.29 - [INFO] txI=2000 
+2016.03.02-17:25:44.29 - [INFO] txA=0 
+2016.03.02-17:25:44.29 - [INFO] txW=0 
+2016.03.02-17:25:44.29 - [INFO] rxI=1999 
+2016.03.02-17:25:44.30 - [INFO] rxA=1 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:36
+ 
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:36
+ 
+2016.03.02-17:25:44.30 - [DEBUG] curSeq = 36
+ flag:I
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:35
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:36
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1998 
+2016.03.02-17:25:44.30 - [INFO] rxA=2 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:37
+ 
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:37
+ 
+2016.03.02-17:25:44.30 - [DEBUG] curSeq = 37
+ flag:I
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:35
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:36
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:37
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1997 
+2016.03.02-17:25:44.30 - [INFO] rxA=3 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:38
+ 
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:38
+ 
+2016.03.02-17:25:44.30 - [DEBUG] curSeq = 38
+ flag:I
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:35
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:36
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:37
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:38
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1996 
+2016.03.02-17:25:44.30 - [INFO] rxA=4 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:39
+ 
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:39
+ 
+2016.03.02-17:25:44.30 - [DEBUG] curSeq = 39
+ flag:I
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:35
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:36
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:37
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:38
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:39
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1995 
+2016.03.02-17:25:44.30 - [INFO] rxA=5 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:40
+ 
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:40
+ 
+2016.03.02-17:25:44.30 - [DEBUG] curSeq = 40
+ flag:I
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:35
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:36
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:37
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:38
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:39
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:40
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1994 
+2016.03.02-17:25:44.30 - [INFO] rxA=6 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:42
+ 
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:42
+ 
+2016.03.02-17:25:44.30 - [DEBUG] curSeq = 42
+ flag:I
+
+2016.03.02-17:25:44.30 - [DEBUG] ------> frame missing !!, rxSuccess = 33, expSeq = 41, curSeq = 42
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] bufferWrite
+
+2016.03.02-17:25:44.30 - [DEBUG] OP_TX : 
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] buffer write len:3, plen:5
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [DEBUG] phyTx
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] TX : nodeNum = 1, state = 1
+
+2016.03.02-17:25:44.30 - [INFO] bufferRead :op  0
+2016.03.02-17:25:44.30 - [DEBUG] OP_TX : 
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] 80 01 
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1993 
+2016.03.02-17:25:44.30 - [INFO] rxA=7 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [DEBUG] phyTx : type = 80, seq = 1
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1993 
+2016.03.02-17:25:44.30 - [INFO] rxA=7 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [INFO] SendToChannel
+
+2016.03.02-17:25:44.30 - [DEBUG] Trasmitted 5 bytes [5]
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] TX : nodeNum = 0, state = 0
+
+2016.03.02-17:25:44.30 - [DEBUG] phyTx Sucessfully transmitted buff
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1993 
+2016.03.02-17:25:44.30 - [INFO] rxA=7 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:35
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:36
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:37
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:38
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:39
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:40
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:42
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 7, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 7, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1993 
+2016.03.02-17:25:44.30 - [INFO] rxA=7 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]RCVD packet Flags:01 Seq no:43
+ 
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] OP_RX: data packet. Flags:01 Seq no:43
+ 
+2016.03.02-17:25:44.30 - [DEBUG] curSeq = 43
+ flag:E
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:35
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:36
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:37
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:38
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:39
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:40
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:42
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:43
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 8, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 8, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1992 
+2016.03.02-17:25:44.30 - [INFO] rxA=8 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]RCVD packet Flags:40 Seq no:34
+ 
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] OP_RX: data packet. Flags:40 Seq no:34
+ 
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:34
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:35
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:36
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:37
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:38
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:39
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:40
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:42
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:43
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:34 buffstate:1
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 9, seq1=34, seq2=34, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.30 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.30 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] update rxSuccessSeq into 34
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1992 
+2016.03.02-17:25:44.30 - [INFO] rxA=8 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [INFO] idx = 1140, len = 98
+
+2016.03.02-17:25:44.30 - [DEBUG] I
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:35 seq:35 buffstate:1
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 8, seq1=35, seq2=35, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.30 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.30 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] update rxSuccessSeq into 35
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1993 
+2016.03.02-17:25:44.30 - [INFO] rxA=7 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [INFO] idx = 1235, len = 98
+
+2016.03.02-17:25:44.30 - [DEBUG] I
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:36 seq:36 buffstate:1
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 7, seq1=36, seq2=36, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.30 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.30 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] update rxSuccessSeq into 36
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1994 
+2016.03.02-17:25:44.30 - [INFO] rxA=6 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [INFO] idx = 1330, len = 98
+
+2016.03.02-17:25:44.30 - [DEBUG] I
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:37 seq:37 buffstate:1
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=37, seq2=37, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.30 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.30 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] update rxSuccessSeq into 37
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1995 
+2016.03.02-17:25:44.30 - [INFO] rxA=5 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [INFO] idx = 1425, len = 98
+
+2016.03.02-17:25:44.30 - [DEBUG] I
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:38 seq:38 buffstate:1
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=38, seq2=38, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.30 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.30 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] update rxSuccessSeq into 38
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1996 
+2016.03.02-17:25:44.30 - [INFO] rxA=4 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [INFO] idx = 1520, len = 98
+
+2016.03.02-17:25:44.30 - [DEBUG] I
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:39 seq:39 buffstate:1
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=39, seq2=39, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.30 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.30 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] update rxSuccessSeq into 39
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1997 
+2016.03.02-17:25:44.30 - [INFO] rxA=3 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [INFO] idx = 1615, len = 98
+
+2016.03.02-17:25:44.30 - [DEBUG] I
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:40 seq:40 buffstate:1
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=40, seq2=40, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.30 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.30 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] update rxSuccessSeq into 40
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1998 
+2016.03.02-17:25:44.30 - [INFO] rxA=2 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [INFO] idx = 1710, len = 98
+
+2016.03.02-17:25:44.30 - [DEBUG] I
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:41 seq:42 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=41, seq2=42, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:41 seq:42 buffstate:0
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=41, seq2=42, rxbufstate:2 state=0
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1998 
+2016.03.02-17:25:44.30 - [INFO] rxA=2 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:25:44.30 - [DEBUG] [phyRx]RCVD packet Flags:40 Seq no:41
+ 
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] OP_RX: data packet. Flags:40 Seq no:41
+ 
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:41
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:42
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] packet seq in list:43
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:25:44.30 - [INFO] listNextNodeView
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:41 seq:41 buffstate:1
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=41, seq2=41, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.30 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.30 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] update rxSuccessSeq into 41
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1998 
+2016.03.02-17:25:44.30 - [INFO] rxA=2 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [INFO] idx = 1805, len = 98
+
+2016.03.02-17:25:44.30 - [DEBUG] I
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:42 seq:42 buffstate:1
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=42, seq2=42, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.30 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.30 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] update rxSuccessSeq into 42
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=1999 
+2016.03.02-17:25:44.30 - [INFO] rxA=1 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [INFO] idx = 1900, len = 98
+
+2016.03.02-17:25:44.30 - [DEBUG] I
+
+2016.03.02-17:25:44.30 - [INFO] bufferState : 
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState] rxbufstate :2 seq1:43 seq:43 buffstate:1
+
+2016.03.02-17:25:44.30 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=43, seq2=43, rxbufstate:2 state=1
+
+2016.03.02-17:25:44.30 - [INFO] bufferRead :op  1
+2016.03.02-17:25:44.30 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:25:44.30 - [INFO] listNodeGet
+
+2016.03.02-17:25:44.30 - [DEBUG] update rxSuccessSeq into 43
+
+2016.03.02-17:25:44.30 - [INFO] listNodeInsert
+
+2016.03.02-17:25:44.30 - [INFO] txI=2000 
+2016.03.02-17:25:44.30 - [INFO] txA=0 
+2016.03.02-17:25:44.30 - [INFO] txW=0 
+2016.03.02-17:25:44.30 - [INFO] rxI=2000 
+2016.03.02-17:25:44.30 - [INFO] rxA=0 
+2016.03.02-17:25:44.30 - [INFO] rxW=0 
+2016.03.02-17:25:44.30 - [INFO] idx = 1995, len = 58
+
+2016.03.02-17:25:44.30 - [DEBUG] E
+
+2016.03.02-17:26:50.85 - [DEBUG] ltimer stop
+
+2016.03.02-17:26:50.85 - [INFO] bufferWrite
+
+2016.03.02-17:26:50.85 - [DEBUG] OP_TX : 
+2016.03.02-17:26:50.85 - [INFO] listNodeGet
+
+2016.03.02-17:26:50.85 - [DEBUG] buffer write len:3, plen:5
+
+2016.03.02-17:26:50.85 - [INFO] listNodeInsert
+
+2016.03.02-17:26:50.85 - [DEBUG] phyTx
+
+2016.03.02-17:26:50.85 - [INFO] bufferState : 
+2016.03.02-17:26:50.85 - [DEBUG] TX : nodeNum = 1, state = 1
+
+2016.03.02-17:26:50.85 - [INFO] bufferRead :op  0
+2016.03.02-17:26:50.85 - [DEBUG] OP_TX : 
+2016.03.02-17:26:50.85 - [INFO] listNodeGet
+
+2016.03.02-17:26:50.85 - [DEBUG] 80 01 
+
+2016.03.02-17:26:50.85 - [INFO] listNodeInsert
+
+2016.03.02-17:26:50.85 - [INFO] txI=2000 
+2016.03.02-17:26:50.85 - [INFO] txA=0 
+2016.03.02-17:26:50.85 - [INFO] txW=0 
+2016.03.02-17:26:50.85 - [INFO] rxI=2000 
+2016.03.02-17:26:50.85 - [INFO] rxA=0 
+2016.03.02-17:26:50.85 - [INFO] rxW=0 
+2016.03.02-17:26:50.85 - [DEBUG] phyTx : type = 80, seq = 1
+
+2016.03.02-17:26:50.85 - [INFO] txI=2000 
+2016.03.02-17:26:50.85 - [INFO] txA=0 
+2016.03.02-17:26:50.85 - [INFO] txW=0 
+2016.03.02-17:26:50.85 - [INFO] rxI=2000 
+2016.03.02-17:26:50.85 - [INFO] rxA=0 
+2016.03.02-17:26:50.85 - [INFO] rxW=0 
+2016.03.02-17:26:50.85 - [INFO] SendToChannel
+
+2016.03.02-17:26:50.85 - [DEBUG] Trasmitted 5 bytes [5]
+
+2016.03.02-17:26:50.85 - [INFO] bufferState : 
+2016.03.02-17:26:50.85 - [DEBUG] TX : nodeNum = 0, state = 0
+
+2016.03.02-17:26:50.85 - [DEBUG] phyTx Sucessfully transmitted buff
+
+2016.03.02-17:26:50.85 - [INFO] txI=2000 
+2016.03.02-17:26:50.85 - [INFO] txA=0 
+2016.03.02-17:26:50.85 - [INFO] txW=0 
+2016.03.02-17:26:50.85 - [INFO] rxI=2000 
+2016.03.02-17:26:50.85 - [INFO] rxA=0 
+2016.03.02-17:26:50.85 - [INFO] rxW=0 
+2016.03.02-17:26:50.85 - [INFO] bufferState : 
+2016.03.02-17:26:50.85 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:50.85 - [INFO] txI=2000 
+2016.03.02-17:26:50.85 - [INFO] txA=0 
+2016.03.02-17:26:50.85 - [INFO] txW=0 
+2016.03.02-17:26:50.85 - [INFO] rxI=2000 
+2016.03.02-17:26:50.85 - [INFO] rxA=0 
+2016.03.02-17:26:50.85 - [INFO] rxW=0 
+2016.03.02-17:26:51.74 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.74 - [DEBUG] [phyRx]RCVD packet Flags:02 Seq no:22
+ 
+2016.03.02-17:26:51.74 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.74 - [DEBUG] OP_RX: data packet. Flags:02 Seq no:22
+ 
+2016.03.02-17:26:51.74 - [DEBUG] curSeq = 22
+ flag:S
+
+2016.03.02-17:26:51.74 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.74 - [DEBUG] reassemble  seekstate:0
+
+2016.03.02-17:26:51.74 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.74 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.74 - [INFO] packet seq in list:22
+
+2016.03.02-17:26:51.74 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.74 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.74 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.74 - [INFO] bufferState : 
+2016.03.02-17:26:51.74 - [DEBUG] [bufferState] rxbufstate :2 seq1:22 seq:22 buffstate:1
+
+2016.03.02-17:26:51.74 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=22, seq2=22, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.74 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.74 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.74 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.74 - [DEBUG] update rxSuccessSeq into 22
+
+2016.03.02-17:26:51.74 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.74 - [INFO] txI=2000 
+2016.03.02-17:26:51.74 - [INFO] txA=0 
+2016.03.02-17:26:51.74 - [INFO] txW=0 
+2016.03.02-17:26:51.74 - [INFO] rxI=2000 
+2016.03.02-17:26:51.74 - [INFO] rxA=0 
+2016.03.02-17:26:51.74 - [INFO] rxW=0 
+2016.03.02-17:26:51.74 - [INFO] idx = 0, len = 98
+
+2016.03.02-17:26:51.74 - [DEBUG] S
+
+2016.03.02-17:26:51.74 - [DEBUG] ltimer start
+
+2016.03.02-17:26:51.74 - [INFO] bufferState : 
+2016.03.02-17:26:51.74 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.74 - [INFO] bufferState : 
+2016.03.02-17:26:51.74 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.74 - [INFO] txI=2000 
+2016.03.02-17:26:51.74 - [INFO] txA=0 
+2016.03.02-17:26:51.74 - [INFO] txW=0 
+2016.03.02-17:26:51.74 - [INFO] rxI=2000 
+2016.03.02-17:26:51.74 - [INFO] rxA=0 
+2016.03.02-17:26:51.74 - [INFO] rxW=0 
+2016.03.02-17:26:51.74 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.74 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:23
+ 
+2016.03.02-17:26:51.74 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.74 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:23
+ 
+2016.03.02-17:26:51.74 - [DEBUG] curSeq = 23
+ flag:I
+
+2016.03.02-17:26:51.74 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.74 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.74 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.74 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.74 - [INFO] packet seq in list:23
+
+2016.03.02-17:26:51.74 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.74 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.74 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.74 - [INFO] bufferState : 
+2016.03.02-17:26:51.74 - [DEBUG] [bufferState] rxbufstate :2 seq1:23 seq:23 buffstate:1
+
+2016.03.02-17:26:51.74 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=23, seq2=23, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.74 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.74 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.74 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.74 - [DEBUG] update rxSuccessSeq into 23
+
+2016.03.02-17:26:51.74 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.74 - [INFO] txI=2000 
+2016.03.02-17:26:51.74 - [INFO] txA=0 
+2016.03.02-17:26:51.74 - [INFO] txW=0 
+2016.03.02-17:26:51.74 - [INFO] rxI=2000 
+2016.03.02-17:26:51.74 - [INFO] rxA=0 
+2016.03.02-17:26:51.74 - [INFO] rxW=0 
+2016.03.02-17:26:51.74 - [INFO] idx = 95, len = 98
+
+2016.03.02-17:26:51.74 - [DEBUG] I
+
+2016.03.02-17:26:51.74 - [INFO] bufferState : 
+2016.03.02-17:26:51.74 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.74 - [INFO] bufferState : 
+2016.03.02-17:26:51.74 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.74 - [INFO] txI=2000 
+2016.03.02-17:26:51.74 - [INFO] txA=0 
+2016.03.02-17:26:51.74 - [INFO] txW=0 
+2016.03.02-17:26:51.74 - [INFO] rxI=2000 
+2016.03.02-17:26:51.74 - [INFO] rxA=0 
+2016.03.02-17:26:51.74 - [INFO] rxW=0 
+2016.03.02-17:26:51.74 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.74 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:24
+ 
+2016.03.02-17:26:51.74 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.74 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:24
+ 
+2016.03.02-17:26:51.74 - [DEBUG] curSeq = 24
+ flag:I
+
+2016.03.02-17:26:51.74 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.74 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.74 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.74 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.74 - [INFO] packet seq in list:24
+
+2016.03.02-17:26:51.74 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.74 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.74 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.74 - [INFO] bufferState : 
+2016.03.02-17:26:51.74 - [DEBUG] [bufferState] rxbufstate :2 seq1:24 seq:24 buffstate:1
+
+2016.03.02-17:26:51.74 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=24, seq2=24, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.74 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.74 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.74 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.74 - [DEBUG] update rxSuccessSeq into 24
+
+2016.03.02-17:26:51.74 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.74 - [INFO] txI=2000 
+2016.03.02-17:26:51.74 - [INFO] txA=0 
+2016.03.02-17:26:51.74 - [INFO] txW=0 
+2016.03.02-17:26:51.74 - [INFO] rxI=2000 
+2016.03.02-17:26:51.74 - [INFO] rxA=0 
+2016.03.02-17:26:51.74 - [INFO] rxW=0 
+2016.03.02-17:26:51.74 - [INFO] idx = 190, len = 98
+
+2016.03.02-17:26:51.74 - [DEBUG] I
+
+2016.03.02-17:26:51.74 - [INFO] bufferState : 
+2016.03.02-17:26:51.74 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=2000 
+2016.03.02-17:26:51.75 - [INFO] rxA=0 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:25
+ 
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:25
+ 
+2016.03.02-17:26:51.75 - [DEBUG] curSeq = 25
+ flag:I
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:25
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:25 seq:25 buffstate:1
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=25, seq2=25, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.75 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.75 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] update rxSuccessSeq into 25
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=2000 
+2016.03.02-17:26:51.75 - [INFO] rxA=0 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [INFO] idx = 285, len = 98
+
+2016.03.02-17:26:51.75 - [DEBUG] I
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=2000 
+2016.03.02-17:26:51.75 - [INFO] rxA=0 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:26
+ 
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:26
+ 
+2016.03.02-17:26:51.75 - [DEBUG] curSeq = 26
+ flag:I
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:26
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:26 seq:26 buffstate:1
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=26, seq2=26, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.75 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.75 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] update rxSuccessSeq into 26
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=2000 
+2016.03.02-17:26:51.75 - [INFO] rxA=0 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [INFO] idx = 380, len = 98
+
+2016.03.02-17:26:51.75 - [DEBUG] I
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=2000 
+2016.03.02-17:26:51.75 - [INFO] rxA=0 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:28
+ 
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:28
+ 
+2016.03.02-17:26:51.75 - [DEBUG] curSeq = 28
+ flag:I
+
+2016.03.02-17:26:51.75 - [DEBUG] ------> frame missing !!, rxSuccess = 26, expSeq = 27, curSeq = 28
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [INFO] bufferWrite
+
+2016.03.02-17:26:51.75 - [DEBUG] OP_TX : 
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] buffer write len:3, plen:5
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [DEBUG] phyTx
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] TX : nodeNum = 1, state = 1
+
+2016.03.02-17:26:51.75 - [INFO] bufferRead :op  0
+2016.03.02-17:26:51.75 - [DEBUG] OP_TX : 
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] 80 01 
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1999 
+2016.03.02-17:26:51.75 - [INFO] rxA=1 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [DEBUG] phyTx : type = 80, seq = 1
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1999 
+2016.03.02-17:26:51.75 - [INFO] rxA=1 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [INFO] SendToChannel
+
+2016.03.02-17:26:51.75 - [DEBUG] Trasmitted 5 bytes [5]
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] TX : nodeNum = 0, state = 0
+
+2016.03.02-17:26:51.75 - [DEBUG] phyTx Sucessfully transmitted buff
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1999 
+2016.03.02-17:26:51.75 - [INFO] rxA=1 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:28
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1999 
+2016.03.02-17:26:51.75 - [INFO] rxA=1 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:29
+ 
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:29
+ 
+2016.03.02-17:26:51.75 - [DEBUG] curSeq = 29
+ flag:I
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:28
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:29
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1998 
+2016.03.02-17:26:51.75 - [INFO] rxA=2 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:30
+ 
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:30
+ 
+2016.03.02-17:26:51.75 - [DEBUG] curSeq = 30
+ flag:I
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:28
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:29
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:30
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1997 
+2016.03.02-17:26:51.75 - [INFO] rxA=3 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:31
+ 
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:31
+ 
+2016.03.02-17:26:51.75 - [DEBUG] curSeq = 31
+ flag:I
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:28
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:29
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:30
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:31
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1996 
+2016.03.02-17:26:51.75 - [INFO] rxA=4 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:32
+ 
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:32
+ 
+2016.03.02-17:26:51.75 - [DEBUG] curSeq = 32
+ flag:I
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:28
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:29
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:30
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:31
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:32
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1995 
+2016.03.02-17:26:51.75 - [INFO] rxA=5 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:33
+ 
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:33
+ 
+2016.03.02-17:26:51.75 - [DEBUG] curSeq = 33
+ flag:I
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:28
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:29
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:30
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:31
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:32
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:33
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:28 buffstate:0
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=27, seq2=28, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1994 
+2016.03.02-17:26:51.75 - [INFO] rxA=6 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.75 - [DEBUG] [phyRx]RCVD packet Flags:40 Seq no:27
+ 
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] OP_RX: data packet. Flags:40 Seq no:27
+ 
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:27
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:28
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:29
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:30
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:31
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:32
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] packet seq in list:33
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.75 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:27 seq:27 buffstate:1
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 7, seq1=27, seq2=27, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.75 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.75 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] update rxSuccessSeq into 27
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1994 
+2016.03.02-17:26:51.75 - [INFO] rxA=6 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [INFO] idx = 475, len = 98
+
+2016.03.02-17:26:51.75 - [DEBUG] I
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:28 seq:28 buffstate:1
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=28, seq2=28, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.75 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.75 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] update rxSuccessSeq into 28
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1995 
+2016.03.02-17:26:51.75 - [INFO] rxA=5 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [INFO] idx = 570, len = 98
+
+2016.03.02-17:26:51.75 - [DEBUG] I
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:29 seq:29 buffstate:1
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=29, seq2=29, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.75 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.75 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] update rxSuccessSeq into 29
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1996 
+2016.03.02-17:26:51.75 - [INFO] rxA=4 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [INFO] idx = 665, len = 98
+
+2016.03.02-17:26:51.75 - [DEBUG] I
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:30 seq:30 buffstate:1
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=30, seq2=30, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.75 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.75 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] update rxSuccessSeq into 30
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1997 
+2016.03.02-17:26:51.75 - [INFO] rxA=3 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [INFO] idx = 760, len = 98
+
+2016.03.02-17:26:51.75 - [DEBUG] I
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState] rxbufstate :2 seq1:31 seq:31 buffstate:1
+
+2016.03.02-17:26:51.75 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=31, seq2=31, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.75 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.75 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.75 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.75 - [DEBUG] update rxSuccessSeq into 31
+
+2016.03.02-17:26:51.75 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.75 - [INFO] txI=2000 
+2016.03.02-17:26:51.75 - [INFO] txA=0 
+2016.03.02-17:26:51.75 - [INFO] txW=0 
+2016.03.02-17:26:51.75 - [INFO] rxI=1998 
+2016.03.02-17:26:51.75 - [INFO] rxA=2 
+2016.03.02-17:26:51.75 - [INFO] rxW=0 
+2016.03.02-17:26:51.75 - [INFO] idx = 855, len = 98
+
+2016.03.02-17:26:51.75 - [DEBUG] I
+
+2016.03.02-17:26:51.75 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:32 seq:32 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=32, seq2=32, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 32
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1999 
+2016.03.02-17:26:51.76 - [INFO] rxA=1 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 950, len = 98
+
+2016.03.02-17:26:51.76 - [DEBUG] I
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:33 seq:33 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=33, seq2=33, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 33
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=2000 
+2016.03.02-17:26:51.76 - [INFO] rxA=0 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 1045, len = 98
+
+2016.03.02-17:26:51.76 - [DEBUG] I
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 0, seq1=0, seq2=0, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=2000 
+2016.03.02-17:26:51.76 - [INFO] rxA=0 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:35
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:35
+ 
+2016.03.02-17:26:51.76 - [DEBUG] curSeq = 35
+ flag:I
+
+2016.03.02-17:26:51.76 - [DEBUG] ------> frame missing !!, rxSuccess = 33, expSeq = 34, curSeq = 35
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] bufferWrite
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_TX : 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] buffer write len:3, plen:5
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [DEBUG] phyTx
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] TX : nodeNum = 1, state = 1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  0
+2016.03.02-17:26:51.76 - [DEBUG] OP_TX : 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] 80 01 
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1999 
+2016.03.02-17:26:51.76 - [INFO] rxA=1 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] phyTx : type = 80, seq = 1
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1999 
+2016.03.02-17:26:51.76 - [INFO] rxA=1 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] SendToChannel
+
+2016.03.02-17:26:51.76 - [DEBUG] Trasmitted 5 bytes [5]
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] TX : nodeNum = 0, state = 0
+
+2016.03.02-17:26:51.76 - [DEBUG] phyTx Sucessfully transmitted buff
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1999 
+2016.03.02-17:26:51.76 - [INFO] rxA=1 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:35
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1999 
+2016.03.02-17:26:51.76 - [INFO] rxA=1 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:36
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:36
+ 
+2016.03.02-17:26:51.76 - [DEBUG] curSeq = 36
+ flag:I
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:35
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:36
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1998 
+2016.03.02-17:26:51.76 - [INFO] rxA=2 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:37
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:37
+ 
+2016.03.02-17:26:51.76 - [DEBUG] curSeq = 37
+ flag:I
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:35
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:36
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:37
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1997 
+2016.03.02-17:26:51.76 - [INFO] rxA=3 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:38
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:38
+ 
+2016.03.02-17:26:51.76 - [DEBUG] curSeq = 38
+ flag:I
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:35
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:36
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:37
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:38
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1996 
+2016.03.02-17:26:51.76 - [INFO] rxA=4 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:39
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:39
+ 
+2016.03.02-17:26:51.76 - [DEBUG] curSeq = 39
+ flag:I
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:35
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:36
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:37
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:38
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:39
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1995 
+2016.03.02-17:26:51.76 - [INFO] rxA=5 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:40
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:40
+ 
+2016.03.02-17:26:51.76 - [DEBUG] curSeq = 40
+ flag:I
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:35
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:36
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:37
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:38
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:39
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:40
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1994 
+2016.03.02-17:26:51.76 - [INFO] rxA=6 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]RCVD packet Flags:00 Seq no:42
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_RX: data packet. Flags:00 Seq no:42
+ 
+2016.03.02-17:26:51.76 - [DEBUG] curSeq = 42
+ flag:I
+
+2016.03.02-17:26:51.76 - [DEBUG] ------> frame missing !!, rxSuccess = 33, expSeq = 41, curSeq = 42
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] bufferWrite
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_TX : 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] buffer write len:3, plen:5
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [DEBUG] phyTx
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] TX : nodeNum = 1, state = 1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  0
+2016.03.02-17:26:51.76 - [DEBUG] OP_TX : 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] 80 01 
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1993 
+2016.03.02-17:26:51.76 - [INFO] rxA=7 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] phyTx : type = 80, seq = 1
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1993 
+2016.03.02-17:26:51.76 - [INFO] rxA=7 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] SendToChannel
+
+2016.03.02-17:26:51.76 - [DEBUG] Trasmitted 5 bytes [5]
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] TX : nodeNum = 0, state = 0
+
+2016.03.02-17:26:51.76 - [DEBUG] phyTx Sucessfully transmitted buff
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1993 
+2016.03.02-17:26:51.76 - [INFO] rxA=7 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:35
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:36
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:37
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:38
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:39
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:40
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:42
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 7, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 7, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1993 
+2016.03.02-17:26:51.76 - [INFO] rxA=7 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]RCVD packet Flags:01 Seq no:43
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_RX: data packet. Flags:01 Seq no:43
+ 
+2016.03.02-17:26:51.76 - [DEBUG] curSeq = 43
+ flag:E
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:35
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:36
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:37
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:38
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:39
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:40
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:42
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:43
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 8, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:35 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 8, seq1=34, seq2=35, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1992 
+2016.03.02-17:26:51.76 - [INFO] rxA=8 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]RCVD packet Flags:40 Seq no:34
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_RX: data packet. Flags:40 Seq no:34
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:34
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:35
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:36
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:37
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:38
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:39
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:40
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:42
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:43
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:34 seq:34 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 9, seq1=34, seq2=34, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 34
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1992 
+2016.03.02-17:26:51.76 - [INFO] rxA=8 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 1140, len = 98
+
+2016.03.02-17:26:51.76 - [DEBUG] I
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:35 seq:35 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 8, seq1=35, seq2=35, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 35
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1993 
+2016.03.02-17:26:51.76 - [INFO] rxA=7 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 1235, len = 98
+
+2016.03.02-17:26:51.76 - [DEBUG] I
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:36 seq:36 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 7, seq1=36, seq2=36, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 36
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1994 
+2016.03.02-17:26:51.76 - [INFO] rxA=6 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 1330, len = 98
+
+2016.03.02-17:26:51.76 - [DEBUG] I
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:37 seq:37 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 6, seq1=37, seq2=37, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 37
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1995 
+2016.03.02-17:26:51.76 - [INFO] rxA=5 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 1425, len = 98
+
+2016.03.02-17:26:51.76 - [DEBUG] I
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:38 seq:38 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 5, seq1=38, seq2=38, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 38
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1996 
+2016.03.02-17:26:51.76 - [INFO] rxA=4 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 1520, len = 98
+
+2016.03.02-17:26:51.76 - [DEBUG] I
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:39 seq:39 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 4, seq1=39, seq2=39, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 39
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1997 
+2016.03.02-17:26:51.76 - [INFO] rxA=3 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 1615, len = 98
+
+2016.03.02-17:26:51.76 - [DEBUG] I
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:40 seq:40 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=40, seq2=40, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 40
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1998 
+2016.03.02-17:26:51.76 - [INFO] rxA=2 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 1710, len = 98
+
+2016.03.02-17:26:51.76 - [DEBUG] I
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:41 seq:42 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=41, seq2=42, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:41 seq:42 buffstate:0
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=41, seq2=42, rxbufstate:2 state=0
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1998 
+2016.03.02-17:26:51.76 - [INFO] rxA=2 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]recvdfrom /tmp/ch_tx.
+
+2016.03.02-17:26:51.76 - [DEBUG] [phyRx]RCVD packet Flags:40 Seq no:41
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] OP_RX: data packet. Flags:40 Seq no:41
+ 
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [DEBUG] reassemble  seekstate:1
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxActivelist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:41
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:42
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] packet seq in list:43
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] ----------rxWaitlist-------
+
+2016.03.02-17:26:51.76 - [INFO] listNextNodeView
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:41 seq:41 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 3, seq1=41, seq2=41, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 41
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1998 
+2016.03.02-17:26:51.76 - [INFO] rxA=2 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 1805, len = 98
+
+2016.03.02-17:26:51.76 - [DEBUG] I
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:42 seq:42 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 2, seq1=42, seq2=42, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 42
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=1999 
+2016.03.02-17:26:51.76 - [INFO] rxA=1 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 1900, len = 98
+
+2016.03.02-17:26:51.76 - [DEBUG] I
+
+2016.03.02-17:26:51.76 - [INFO] bufferState : 
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState] rxbufstate :2 seq1:43 seq:43 buffstate:1
+
+2016.03.02-17:26:51.76 - [DEBUG] [bufferState]RX : nodeNum = 1, seq1=43, seq2=43, rxbufstate:2 state=1
+
+2016.03.02-17:26:51.76 - [INFO] bufferRead :op  1
+2016.03.02-17:26:51.76 - [INFO] [bufferRead]OP_RX
+
+2016.03.02-17:26:51.76 - [INFO] listNodeGet
+
+2016.03.02-17:26:51.76 - [DEBUG] update rxSuccessSeq into 43
+
+2016.03.02-17:26:51.76 - [INFO] listNodeInsert
+
+2016.03.02-17:26:51.76 - [INFO] txI=2000 
+2016.03.02-17:26:51.76 - [INFO] txA=0 
+2016.03.02-17:26:51.76 - [INFO] txW=0 
+2016.03.02-17:26:51.76 - [INFO] rxI=2000 
+2016.03.02-17:26:51.76 - [INFO] rxA=0 
+2016.03.02-17:26:51.76 - [INFO] rxW=0 
+2016.03.02-17:26:51.76 - [INFO] idx = 1995, len = 58
+
+2016.03.02-17:26:51.77 - [DEBUG] E
+
